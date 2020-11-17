@@ -3,9 +3,12 @@ Motor Vehicle Collisions data for NYC
 
 
 
-![Graph 1](https://github.com/dekennedy/SalesData_12months/blob/main/Graph%201.PNG)
-> Graph of Sales Data by Month
+![Graph 1](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%201.PNG)
+> Map of crash Data
 
+
+![Graph 1](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%202.PNG)
+> Map of crash Data
 
 
 ---
