@@ -7,8 +7,7 @@ Motor Vehicle Collisions data for NYC
 > Map of crash Data.
 
 
-![Graph 1](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%202.PNG)
-> Map of crash Data.
+
 
 
 ---
@@ -25,6 +24,19 @@ Motor Vehicle Collisions data for NYC
 Motor Vehicle Collisions - Crashes
 
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report is required to be filled out for collisions where someone is injured or killed, or where there is at least $1,000 worth of damage.
+
+
+
+![Graph 2](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%202.PNG)
+> Map of crash Data.
+
+
+![Graph 3](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Crash%20Graph%20Time%20of%20Day.PNG)
+> Graph of the time of day that most accadents occur.
+
+![Graph 4](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Crash%20Graph%20by%20Month.PNG)
+> Graph of the crach data grouped by month. 
+
 
 
 
