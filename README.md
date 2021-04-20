@@ -32,7 +32,7 @@ The Motor Vehicle Collisions crash table contains details on the crash event. Ea
 
 
 ![Graph 3](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Crash%20Graph%20Time%20of%20Day.PNG)
-> Graph of the time of day that most accadents occur.
+> Graph of the time of day that most accidents occur.
 
 ![Graph 4](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Crash%20Graph%20by%20Month.PNG)
 > Graph of the crach data grouped by month. 
