@@ -1,5 +1,5 @@
 # NYC-Motor-Vehicle-Collisions
-Motor Vehicle Collisions data for NYC
+Motor Vehicle Collisions data for NYC.
 
 
 
